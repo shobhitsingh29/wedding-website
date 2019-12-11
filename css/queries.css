@@ -23,6 +23,9 @@
         width: 90%;
         padding-left: 25px;
     }
+    .hero h1 {
+        font-size: 50px;
+    }
 
     .hero .hero-content {
         padding-top: 50%;
@@ -225,7 +228,7 @@
     .events .rightcol {
         padding: 0 20px;
     }
-    
+
     #eng-pics .img-wrap {
         border-radius: 0;
     }
@@ -233,7 +236,7 @@
     #map-content-wrapper {
         margin-bottom: 40px;
     }
-    
+
     #map-content {
         margin-top: 0;
         padding: 35px;
@@ -257,6 +260,10 @@
         padding-top: 100%;
     }
 
+    .hero h1 {
+        font-size: 50px;
+    }
+
     #eng-pics .img-wrap i {
         font-size: 25px;
         position: absolute;
@@ -268,7 +275,7 @@
     #map-content-wrapper {
         margin-bottom: 0;
     }
-    
+
     footer ul.footer-group {
         border-top: none;
     }
@@ -295,7 +302,7 @@
     .hero .hero-content {
         padding-top: 110%;
     }
-    
+
     .hero .hero-content img {
         width: 65%;
     }
@@ -311,7 +318,7 @@
     }
 
     .hero h1 {
-        font-size: 50px;
+        font-size: 80px;
     }
 
     .btn-margin-right {
@@ -359,7 +366,9 @@
     .hero .hero-content {
         padding-top: 130%;
     }
-
+    .hero h1 {
+        font-size: 80px;
+    }
     .rsvp {
         padding-top: 20px;
     }
